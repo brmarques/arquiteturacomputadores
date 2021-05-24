@@ -23,7 +23,7 @@ jump:
 	ori 	$v0, $0, 4		# 4 p/ imprimir string
 	lui 	$a0, 0x1001		# conteúdo a ser impresso em tela
 	syscall	
-	ori 	$v0, $0, 10		#finaliza o programa
+	ori 	$v0, $0, 10		# finaliza o programa
 	syscall	
 	
 .data
