@@ -29,7 +29,6 @@ finally:
 
 .data
 					# para teste supondo que x = 2 e y = 7 | soma de 2 + 3 = 5 + 4 = 9 + 5 = 14 + 6 = 20 + 7 = 27
-	x: 	.half 2			# modificar o valor inicial do intervalo aqui
-	y: 	.half 8			# modificar o valor final do intervalo aqui
+	x: 	.half 1			# modificar o valor inicial do intervalo aqui
+	y: 	.half 25			# modificar o valor final do intervalo aqui
 
-jksahjksahdjksa
